@@ -19,7 +19,6 @@ For screenshots reffer the Screenshot folder
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 
 ## Installation
 
