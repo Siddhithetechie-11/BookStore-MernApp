@@ -44,9 +44,9 @@ To delete a book, click on the "Delete" button next to the book record.
 To view books, navigate to the home page where the records are displayed in a tabular and card format.
 
 ## Technologies Used
-MongoDB: NoSQL database for storing book records.
-Express.js: Web framework for Node.js.
+MongoDB : NoSQL database for storing book records.
+Express.js : Web framework for Node.js.
 React.js + vite : Frontend library for building user interfaces.
-Node.js: JavaScript runtime for server-side programming.
+Node.js : JavaScript runtime for server-side programming.
 
 
